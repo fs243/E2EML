@@ -3,6 +3,9 @@
 
 # Ignore virtual environment directory
 venv/
+newenv/
+
+.artifacts
 
 # Ignore log files
 *.log
