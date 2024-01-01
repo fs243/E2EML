@@ -6,7 +6,8 @@ venv/
 newenv/
 
 .artifacts
-
+.ipynb_checkpoints
+mlproject.egg-info
 # Ignore log files
 *.log
 
